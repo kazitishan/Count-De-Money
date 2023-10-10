@@ -1,0 +1,24 @@
+h1{
+    margin: 20px 0;
+}
+
+body {
+    font-family: Calibri, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* buttons */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Calibri, sans-serif;
+    margin: 10px 0;
+}
+
+/* Spacing each button between each other */
+button {
+    margin: 5px;
+}
